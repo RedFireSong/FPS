@@ -1,2 +1,8 @@
 # Ignore Unity Library folder
 Library/
+
+# Ignore Unity Logs folder
+Logs/
+
+# Ignore Unity obj folder
+obj/
