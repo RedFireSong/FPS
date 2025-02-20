@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|d:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\fpsgame\\assets\\scripts\\enemy\\fsm\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\fsm\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\assets\\scripts\\loginscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loginscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\FSM\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\FSM\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\EnemyBaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\FSM\\EnemyBaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Weapon_AutomaticGun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Weapon_AutomaticGun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\PatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\FSM\\PatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\WayPointMager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89DCFB-3BAD-6C28-6B5B-24F8CAF266D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\FSM\\WayPointMager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FSM\\AttackState.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\AttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FSM\\AttackState.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwDAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:56:37.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FSM\\Main.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FSM\\Main.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwCQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:03:04.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FSM\\Enemy.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FSM\\Enemy.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAASwE4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:58:32.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyBaseState.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\EnemyBaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FSM\\EnemyBaseState.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\EnemyBaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FSM\\EnemyBaseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:40:47.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weapon_AutomaticGun.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Weapon_AutomaticGun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon_AutomaticGun.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Weapon_AutomaticGun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon_AutomaticGun.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAMwJMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:38:57.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:33:03.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAxwC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:37:46.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:39:01.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatrolState.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\PatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FSM\\PatrolState.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\PatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FSM\\PatrolState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:56:39.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WayPointMager.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\WayPointMager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FSM\\WayPointMager.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\Enemy\\FSM\\WayPointMager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FSM\\WayPointMager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:24:53.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginScene.cs",
+              "DocumentMoniker": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\LoginScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoginScene.cs",
+              "ToolTip": "D:\\\u6E38\u620F\u5F00\u53D1\u603B\u6587\u4EF6\\FPSGame\\Assets\\Scripts\\LoginScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoginScene.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:26:43.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
