@@ -60,16 +60,16 @@
     <Compile Include="Assets\Scripts\Enemy\FSM\EnemyBaseState.cs" />
     <Compile Include="Assets\Hands_Weapons_Animations_Pack_Update\Effects\Automatic_rifle\FX\Script\LightCurves.cs" />
     <Compile Include="Assets\Scripts\Enemy\FSM\AttackState.cs" />
+    <Compile Include="Assets\Scripts\Enemy\FSM\WayPointMager.cs" />
     <Compile Include="Assets\Scripts\Weapon_AutomaticGun.cs" />
     <Compile Include="Assets\Scripts\Enemy\FSM\Enemy.cs" />
     <Compile Include="Assets\Scripts\Enemy\FSM\PatrolState.cs" />
+    <Compile Include="Assets\Scripts\Enemy\FSM\Main.cs" />
     <Compile Include="Assets\Scripts\Weapon.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\DBManager.cs" />
     <Compile Include="Assets\Scripts\LoginScene.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
-    <Compile Include="Assets\Scripts\Enemy\FSM\WayPointMager.cs" />
-    <Compile Include="Assets\Scripts\Enemy\FSM\Main.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

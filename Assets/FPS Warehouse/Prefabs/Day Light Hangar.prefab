@@ -78345,7 +78345,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74c23fbc7cae85945a4c66c8e1d63e03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  showPlayer: {fileID: 9220015536723660506}
+  MainUI: {fileID: 9220015536723660506}
+  showPlayer: {fileID: 4501097572942182648}
   StartUI: {fileID: 640076625}
   button1: {fileID: 1119343263}
   button2: {fileID: 647329140}
